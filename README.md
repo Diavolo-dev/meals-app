@@ -6,7 +6,7 @@ This is a tutorial base flutter app that i have been working on.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
-THIS IS A SIMPLE MEAL APP.
+THIS IS A SIMPLE MEAL APP. you can checkout any food.
 
 A few resources to get you started if this is your first Flutter project:
 
